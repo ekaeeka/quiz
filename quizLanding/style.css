@@ -1,0 +1,108 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-weight: 400;
+}
+
+body {
+    font-family: 'Jura', sans-serif;
+    background: url("img/samuele-errico-piccarini-FMbWFDiVRPs-unsplash.jpg");
+    background-blend-mode: multiply;
+    background-color: rgba(0, 0, 0, 0.51);
+    background-size: cover;
+}
+
+.container {
+    width: 1500px;
+    margin: 25px auto;
+}
+
+.head-logo h1 {
+    color: white;
+}
+
+.head-phone {
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+    margin-right: 25px;
+}
+
+.head-phone p {
+    margin-right: 20px;
+}
+
+.head-button a {
+    padding: 7px 7px 7px 7px;
+    text-decoration: none;
+    color: white;
+    background: #3D8DEB;
+    border-radius: 5px;
+}
+
+.head {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.heading h1 {
+    color: white;
+    font-size: 45px;
+    font-weight: 400;
+    margin-top: 36px;
+    margin-left: 25px;
+}
+
+.heading hr{
+    width: 330px;
+    margin-left: 297px;
+    margin-top: 35px;
+}
+
+.color{
+    color:#3D8DEB;
+}
+
+.subtitle h2{
+    color: white;
+    font-size: 35px;
+    margin-left: 297px;
+    margin-top: 35px;
+}
+
+.subtitle hr{
+    width: 330px;
+    margin-left: 620px;
+    margin-top: 35px;
+}
+
+.trigger h3{
+    color: white;
+    font-size: 25px;
+    margin-left: 700px;
+    margin-top: 35px;
+}
+
+.trigger hr{
+    width: 330px;
+    margin-left: 847px;
+    margin-top: 35px;
+}
+
+.button a{
+    padding: 7px 10px 7px 10px;
+    text-decoration: none;
+    color: white;
+    background: #3D8DEB;
+    border-radius: 5px;
+    font-size: 25px;
+    margin-left: 1010px;
+}
+
+.button{
+    margin-top: 35px;
+}
+
+
+
